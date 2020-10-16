@@ -8,6 +8,8 @@ public class SpringGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringGitApplication.class, args);
+	
+		System.out.println("Welcome to SpringIt!");
 	}
 
 }
